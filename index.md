@@ -6,7 +6,7 @@ layout: default
 # Analyzing Results from COMP110 Course Survey
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="personal-site.github.io/static/imgs/logo.png" 
+<img src="/static/imgs/prettycows.webp" alt="Cows in a Meadow. "  width="500"/>
 
 ## Figures
 
