@@ -6,7 +6,7 @@ layout: default
 # Analyzing Results from COMP110 Course Survey
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="C:\Users\samratt.UNC-PW05RRNW\OneDrive - University of North Carolina at Chapel Hill\COMP 110\personal-site.github.io/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="personal-site.github.io/static/imgs/logo.png" #alt="Image of Comp110 rainbow logo."  width="500"/>
 
 ## Figures
 
