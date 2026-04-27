@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EX09 - Pace Assessment Analysis - COMP110
-email: "samuel.rattigan@gmail.com"
+email: "samratt@unc.edu"
 description: #>- # this means to ignore newlines until "baseurl:"
   A brief analysis of data from the UNC COMP110 class survey. Specifically, this analysis was interested in discovering overall class sentiment on the pace of instruction, and how this might relate to the frequency of the student's in-class note-taking and the main major of each student.
 baseurl: "/comp110dataanalysis" # the subpath of your site, e.g. /blog
