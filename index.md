@@ -10,7 +10,19 @@ layout: default
 
 ## Figures
 
-These are all of the figures
+![Full Class Assessment of Pace](/static/imgs/fullclass.png)
+Rating of pace of instruction across the whole class.
+
+![Likelihood of taking notes vs. pace assessment](/static/imgs/notes.png)
+Rating of pace of instruction for those likely to (rated 5-7) or unlikely to (rated 1-4) take notes in class.
+
+![Pace Assessment - STEM Majors](/static/imgs/stem.png)
+Ratings of pace of instruction by STEM majors.
+
+![Pace Assessment - Humanities Majors](/static/imgs/humanities.png)
+Ratings of pace of instruction by Humanities majors.
+
+
 
 ## Results
 
